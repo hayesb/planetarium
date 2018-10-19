@@ -1,2 +1,4 @@
 # planetarium
-test repo for Library Carpentry workshop
+Test repo for Library Carpentry workshop
+
+This is a program for files related to space
